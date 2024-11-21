@@ -1,14 +1,14 @@
 env:
   # Get these values from the Firebase console
   - variable: NEXT_PUBLIC_FIREBASE_API_KEY
-    value: AIzaSyBY7Za1a-6NFsR-VBXnJdd6VsOndt0tIF4
+    value: "AIzaSyBY7Za1a-6NFsR-VBXnJdd6VsOndt0tIF4"
   - variable: NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN
-    value: playground-bd801.firebaseapp.com
+    value: "playground-bd801.firebaseapp.com"
   - variable: NEXT_PUBLIC_FIREBASE_PROJECT_ID
-    value: playground-bd801
+    value: "playground-bd801"
   - variable: NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET
-    value: playground-bd801.appspot.com
+    value: "playground-bd801.appspot.com"
   - variable: NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID
-    value: 598356876658
+    value: "598356876658"
   - variable: NEXT_PUBLIC_FIREBASE_APP_ID
-    value: 1:598356876658:web:cee1c70051dfe4b6fd91eb
+    value: "1:598356876658:web:cee1c70051dfe4b6fd91eb"
